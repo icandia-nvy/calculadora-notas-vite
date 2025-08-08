@@ -1,0 +1,4 @@
+* text=auto
+*.yml eol=lf
+*.yaml eol=lf
+*.sh eol=lf
